@@ -15,4 +15,4 @@ Install Pygame
 
 ## Technology used:
 
-Deep Q
+Deep Q Learning, Feature extraction
